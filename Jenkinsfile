@@ -1,4 +1,4 @@
-Node {
+node {
     def dockerImage = 'node:16-buster-slim'
     
     try {
